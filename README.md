@@ -4,6 +4,8 @@ so to later making from audio project to convert,For example from audio midi to 
 
 For More Informaion Check this Link : 
 
-# This Project still develop for music
-# This still first for educations in music
-# This still develop in project
+# This Project still develop for music ... come soon
+# This still first for educations in music ...
+# This still develop in project ...
+
+#Comesoon Project...
