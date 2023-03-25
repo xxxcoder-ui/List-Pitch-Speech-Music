@@ -1,0 +1,10 @@
+{
+  "name": "Transcript",
+  "description": "no description | Transcript",
+  "launch_path": "/index.html",
+  "icons": {
+    "512": "/img/RamdanYogaPradana.png",
+    "128": "/img/AlexanderWilliam.png"
+  },
+  "default_locale": "en"
+}
